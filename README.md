@@ -8,3 +8,4 @@ Sample website with plenty of files for demos
 
 ## Copyright
 2019 seb design
+instruction on how to use this code should be placed here
